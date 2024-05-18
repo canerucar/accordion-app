@@ -1,3 +1,6 @@
+## Project Purpose
+We extracted user data from an API and created an interface with an accordion menu.
+
 This project was created with [Next.js](https://nextjs.org/).
 
 ## Getting Started
