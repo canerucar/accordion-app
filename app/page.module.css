@@ -1,0 +1,16 @@
+.accordionWrapper {
+    display: flex;
+    max-width: 1080px;
+    margin: 0 auto;
+}
+
+.accordionTitle {
+  text-align: center;
+  font-size: 30px;
+  margin: 20px 0;
+}
+
+.accordionMenu {
+  margin-left: 20px;
+  width: 100%;
+}

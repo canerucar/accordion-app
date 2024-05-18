@@ -1,0 +1,28 @@
+.itemWrapper {
+  display: flex;
+  width: 100%;
+  justify-content: flex-start;
+  gap: 20px;
+}
+
+.activeItem {
+  padding: 10px;
+  border: 1px solid gray;
+  margin: 5px 0px;
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+
+.toggleAcordion {
+  cursor: pointer;
+  padding: 10px;
+  border: 1px solid black;
+  margin: 5px 0px;
+  display: flex;
+  align-items: center;
+}
+
+.toggleAcordionItem {
+  margin-right: 10px;
+}
